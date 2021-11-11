@@ -1,0 +1,1 @@
+## Deploy Simple ERC20 Token on Remix
