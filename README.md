@@ -59,3 +59,5 @@
 - New Pool will display once success on your positions on page 
 
 This is the fork repo from Dapp university
+
+All checked by Sundev
