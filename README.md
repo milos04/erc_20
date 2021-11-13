@@ -19,7 +19,7 @@
   - Scroll down to deployed contracts section and click on deployed contract
   - View buttons for all the functions you can carry out on contract e.g approve, transfer etc
 
-1. Deploy Token to Kovan Testnet
+2. Deploy Token to Kovan Testnet
 
 - Select Deploy and Run Transactions Page
   - Environment dropdown select Injected Web3 (to allow use of Metamask)
